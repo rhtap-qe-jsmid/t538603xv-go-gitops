@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t538603xv-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/t538603xv-go
